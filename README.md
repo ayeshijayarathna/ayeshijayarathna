@@ -6,8 +6,7 @@
 
 - 🌱 I’m currently learning **Bsc(honours)Software Engineering**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/ayeshi-i-jayarathna-b225572a3](www.linkedin.com/in/ayeshi-i-jayarathna-b225572a3)
-
+  
 - 📫 How to reach me **ashjayarathna5@gmail.com**
 
 - ⚡ Fun fact **call me as Inuu..**
