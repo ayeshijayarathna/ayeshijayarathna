@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayeshi I.Jayarathna</h1>
-<h3 align="center">Software Engineering Undergraduate of University of Plymouth|Dip.IT|Dip.English</h3>
+<h3 align="center">Software Engineering Undergraduate of University of Plymouth</h3>
+<h3 align="center">Dip.in IT|Dip.in Eng.</h3>
 <img align="right" alt="coding" width "50" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeshijayarathna&label=Profile%20views&color=0e75b6&style=flat" alt="ayeshijayarathna" /> </p>
