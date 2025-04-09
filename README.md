@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ayeshi I.Jayarathna</h1>
+<h1 align="center">Hey!!👋😃, I'm Ayeshi I.Jayarathna</h1>
 <h3 align="center">Software Engineering Undergraduate of University of Plymouth (UK)</h3>
 <img align="right" alt="coding" width "50" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
-
-- Hey!! **👋😃**
 
 - 👩‍🎓 I’m currently learning **Bsc(Hons)Software Engineering and Hnd in Project Management**
 
