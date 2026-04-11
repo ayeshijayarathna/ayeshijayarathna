@@ -226,16 +226,21 @@ const Inuu = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayeshijayarathna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshijayarathna&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayeshijayarathna&theme=tokyo-night&hide_border=true&area=true&custom_title=Ayeshi's%20Contribution%20Graph" width="100%"/>
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ayeshijayarathna&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</div>
+
+<div align="center">
+
+  ![](https://img.shields.io/github/followers/ayeshijayarathna?style=for-the-badge&color=6e40c9&labelColor=1a1b27&label=Followers&logo=github)
+  ![](https://img.shields.io/github/stars/ayeshijayarathna?style=for-the-badge&color=6e40c9&labelColor=1a1b27&label=Stars&logo=github)
+
 </div>
 
 ---
