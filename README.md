@@ -1,11 +1,4 @@
-<div align="center">
-
-# 👋 Hey! I'm Ayeshi I. Jayarathna
-
-### Software Engineer & AI/ML Enthusiast
-#### BSc (Hons) Software Engineering · University of Plymouth (UK)
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=Software+Engineer+%F0%9F%92%BB;AI+%2F+ML+Enthusiast+%F0%9F%A4%96;MERN+Stack+Developer+%F0%9F%9A%80;Mobile+App+Developer+%F0%9F%93%B1;Software+Testing+%7C+QA+%F0%9F%A7%AA" alt="Typing SVG" />
+F+ML+Enthusiast+%F0%9F%A4%96;MERN+Stack+Developer+%F0%9F%9A%80;Mobile+App+Developer+%F0%9F%93%B1;Software+Testing+%7C+QA+%F0%9F%A7%AA" alt="Typing SVG" />
 
 <br/>
 
@@ -21,12 +14,24 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Pursuing **BSc (Hons) Software Engineering** · University of Plymouth (UK)
-- 🤖 Passionate about **AI/ML & Intelligent Systems**
-- 🧪 Looking to collaborate on **Software Testing** projects
-- 🌱 Building full-stack apps with **MERN Stack** & mobile apps with **React Native**
+```javascript
+const Inuu = {
+  name      : "Ayeshi I. Jayarathna",
+  aka       : "Inuu 💖",
+  degree    : "BSc (Hons) Software Engineering · University of Plymouth (UK)",
+  passions  : ["AI / ML", "Full-Stack Development", "Mobile Apps", "UI/UX Design"],
+  currentlyBuilding : "Innovative apps that solve real-world problems 🚀",
+  funFact   : "I turn caffeine & curiosity into code ✨",
+};
+```
+
+- 🎓 Pursuing **BSc (Hons) Software Engineering** at University of Plymouth (UK)
+- 🤖 Obsessed with **AI/ML** — building systems that actually *think* 🧠
+- 🚀 Love working on **innovative projects** that make a real-world impact
+- 🌱 Crafting full-stack experiences with **MERN Stack** & cross-platform apps with **React Native**
+- 🎨 Passionate about **UI/UX** — because great software should *feel* as good as it works
 - 🏆 Completed **Diploma in Information Technology & English Language**
-- 💡 Exploring **Machine Learning, Automation & Intelligent Software**
+- ⚡ Always exploring the intersection of **creativity & technology**
 - 💖 My friends call me **Inuu!**
 
 ---
@@ -215,12 +220,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayeshijayarathna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshijayarathna&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayeshijayarathna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshijayarathna&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshijayarathna&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ayeshijayarathna&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </div>
 
 ---
