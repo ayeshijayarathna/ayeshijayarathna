@@ -1,4 +1,13 @@
-F+ML+Enthusiast+%F0%9F%A4%96;MERN+Stack+Developer+%F0%9F%9A%80;Mobile+App+Developer+%F0%9F%93%B1;Software+Testing+%7C+QA+%F0%9F%A7%AA" alt="Typing SVG" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=120&section=header&text=Hi%20There!%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
+# ✨ Ayeshi I. Jayarathna
+
+### 🤖 Software Engineer & AI/ML Enthusiast
+#### BSc (Hons) Software Engineering · University of Plymouth (UK)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6E40C9&center=true&vCenter=true&width=550&lines=Software+Engineer+%F0%9F%92%BB;AI+%2F+ML+Enthusiast+%F0%9F%A4%96;MERN+Stack+Developer+%F0%9F%9A%80;Mobile+App+Developer+%F0%9F%93%B1;Building+Innovative+Solutions+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
