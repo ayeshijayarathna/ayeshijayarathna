@@ -14,7 +14,9 @@
 
 ## 👩‍💻 About Me
 
-I'm a software engineer who loves turning ideas into real, working products — from full-stack web apps to mobile experiences and a healthy curiosity for AI/ML. Currently pursuing my **BSc (Hons) Software Engineering** at the University of Plymouth (UK), I enjoy wearing different hats across a project, whether that's writing code, planning the work, designing the experience, or analyzing what the business actually needs. My friends call me **Inuu** 💖
+I’m a software developer who enjoys turning ideas into real, functional products - from full-stack web applications to mobile experiences. I have a strong interest in building clean, user-focused solutions and continuously exploring new technologies, including AI/ML.I enjoy working across different stages of a project - whether it's developing applications, designing user interfaces, planning workflows, or understanding business requirements. I’m passionate about creating meaningful digital experiences that are both practical and impactful.
+
+🚀 Always learning. Always building.
 
 ---
 
