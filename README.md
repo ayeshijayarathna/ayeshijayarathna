@@ -2,16 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Hey%20There!%20I'm%20Ayeshi%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 
-# ✨ Ayeshi I. Jayarathna
-
-### 🤖 Software Engineer & AI/ML Enthusiast
-#### BSc (Hons) Software Engineering · University of Plymouth (UK)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A371F7&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%92%BB;Next.js+%2B+Node.js+Developer+%E2%9A%A1;Real-time+Apps+with+Socket.io+%F0%9F%94%8C;AI+%2F+ML+Enthusiast+%F0%9F%A4%96;WebAR+%26+Three.js+Explorer+%F0%9F%8C%90;Mobile+App+Developer+%F0%9F%93%B1;Building+Innovative+Solutions+%E2%9C%A8" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Woman%20Technologist%20Medium-Light%20Skin%20Tone.png" width="160"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A371F7&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%92%BB;Project+Manager+%F0%9F%93%8B;Designer+%F0%9F%8E%A8;Business+Analyst+%F0%9F%93%8A" alt="Typing SVG" />
 
 <br/>
 
@@ -23,15 +14,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Pursuing **BSc (Hons) Software Engineering** at University of Plymouth (UK)
-- 🤖 Obsessed with **AI/ML** — building systems that actually *think* 🧠
-- 🚀 Love working on **innovative projects** that make a real-world impact
-- 🌱 Crafting full-stack experiences with **Next.js, Node.js & MERN Stack**, real-time features with **Socket.io**, and cross-platform apps with **React Native**
-- 🌐 Diving into **Three.js & WebAR** to build immersive, interactive web experiences
-- 🎨 Passionate about **UI/UX** — because great software should *feel* as good as it works
-- 🏆 Completed **Diploma in Information Technology & English Language**
-- ⚡ Always exploring the intersection of **creativity & technology**
-- 💖 My friends call me **Inuu!**
+I'm a software engineer who loves turning ideas into real, working products — from full-stack web apps to mobile experiences and a healthy curiosity for AI/ML. Currently pursuing my **BSc (Hons) Software Engineering** at the University of Plymouth (UK), I enjoy wearing different hats across a project, whether that's writing code, planning the work, designing the experience, or analyzing what the business actually needs. My friends call me **Inuu** 💖
 
 ---
 
@@ -81,7 +64,7 @@
       <br/><sub><b>Socket.io</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webgl/webgl-original.svg" width="48" height="48" alt="WebGL" />
+      <img src="https://cdn.simpleicons.org/webgl/A371F7" width="48" height="48" alt="WebGL" />
       <br/><sub><b>WebAR / WebGL</b></sub>
     </td>
   </tr>
@@ -100,7 +83,7 @@
       <br/><sub><b>Express.js</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/nodemailer/nodemailer-icon.svg" width="48" height="48" alt="Nodemailer" />
+      <img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" height="48" alt="Nodemailer" />
       <br/><sub><b>Nodemailer</b></sub>
     </td>
     <td align="center" width="96">
